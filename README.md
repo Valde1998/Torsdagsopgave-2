@@ -3,7 +3,52 @@ Valdemar
 cph-vc61@cphbusiness.dk
 
 Hej jeg hedder Valdemar jeg går på CPH.
+---------------------------
+Task 2.
 
+boolean happy = true; 
+
+String v = "Valdemar";
+int year = 24;
+
+
+void setup(){
+  size(600,400);
+
+ 
+
+if (happy == true) {
+  
+  println("Hi, my name is"+v+" I am "+year+" years old");   
+ } else { 
+   println("I am sad");
+ }
+}
+-------------------------
+Task 3.
+
+int a; 
+int b;
+
+void setup(){
+ a = 10;
+  if(a == 10){
+    println("Success!");
+  }
+  else if(b == 10){
+   println("Failure!"); 
+  }
+else if(a + b == 10){
+ println("Success!"); 
+}
+else{
+ println("Failure!"); 
+}
+  
+}  
+
+---------------------------
+Task 4.
 void setup(){
 //task 4.a-b
   for(int i = 0; i<21;i +=2){
