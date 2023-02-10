@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Torsdagsopgave-2
 Valdemar
 cph-vc61@cphbusiness.dk
@@ -91,3 +92,6 @@ println("i="+i);
 }
 }
 
+=======
+# Torsdagsopgave-1
+>>>>>>> da888a9197c04e8c91dfdde6b5b69374d802b2a1
