@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Torsdagsopgave-2
+# Torsdagsopgave-1
 Valdemar
 cph-vc61@cphbusiness.dk
 
