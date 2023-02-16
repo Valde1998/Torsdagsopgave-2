@@ -71,8 +71,15 @@ void setup(){
     }
     println("i="+i); 
  }
- 
+ //if(i % 2 == 0){
+//}
 }
+//switch (i){
+//case 1:
+//break;
+//default;
+
+//}
 
 void setup(){
 //task 4.d
